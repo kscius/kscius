@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="kscius@soulgate  ml.pipeline streaming terminal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="kscius@soulgate ml.pipeline streaming terminal">
   <defs>
     <clipPath id="streamWindow">
       <rect x="0" y="46" width="800" height="128"/>
@@ -13,7 +13,7 @@
   <circle cx="42" cy="18" r="6" fill="#febc2e"/>
   <circle cx="62" cy="18" r="6" fill="#28c840"/>
 
-  <text x="400" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="1">kscius@soulgate  ml.pipeline.live</text>
+  <text x="400" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="1">kscius@soulgate &#8212; ml.pipeline.live</text>
 
   <g transform="translate(700, 22)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1">
     <circle cx="-12" cy="-4" r="4" fill="#4ade80">
@@ -30,18 +30,18 @@
         calcMode="discrete"
         dur="9s" repeatCount="indefinite"/>
 
-      <text x="24" y="60"><tspan fill="#4b5563">[09:14:21]</tspan> <tspan fill="#c9d1d9">yolo.detect</tspan>     · palm · <tspan fill="#4ade80">0.94</tspan> conf · 18ms</text>
-      <text x="24" y="78"><tspan fill="#4b5563">[09:14:22]</tspan> <tspan fill="#c9d1d9">efficientnet</tspan>  · face · <tspan fill="#4ade80">ok</tspan> · CUDA · 42ms</text>
-      <text x="24" y="96"><tspan fill="#4b5563">[09:14:23]</tspan> <tspan fill="#c9d1d9">gemini.narrative</tspan> · batch 12 · <tspan fill="#4ade80">ok</tspan></text>
-      <text x="24" y="114"><tspan fill="#4b5563">[09:14:24]</tspan> <tspan fill="#c9d1d9">tts.synthesize</tspan>  <tspan fill="#4ade80">ok</tspan> · <tspan fill="#fbbf24">50 MB</tspan> · was 800 MB</text>
-      <text x="24" y="132"><tspan fill="#4b5563">[09:14:25]</tspan> <tspan fill="#c9d1d9">stripe.webhook</tspan>  <tspan fill="#4ade80">ok</tspan> · subscription renewed</text>
-      <text x="24" y="150"><tspan fill="#4b5563">[09:14:26]</tspan> <tspan fill="#c9d1d9">gateway.route</tspan>   · 5 img types · 12 svc</text>
-      <text x="24" y="168"><tspan fill="#4b5563">[09:14:27]</tspan> <tspan fill="#c9d1d9">socket.emit</tspan>     · client ack · <tspan fill="#4ade80">14ms</tspan></text>
-      <text x="24" y="186"><tspan fill="#4b5563">[09:14:28]</tspan> <tspan fill="#c9d1d9">pgvector.search</tspan> <tspan fill="#4ade80">ok</tspan> · 128 dims · 6ms</text>
-      <text x="24" y="204"><tspan fill="#4b5563">[09:14:29]</tspan> <tspan fill="#c9d1d9">twilio.whatsapp</tspan> · 1M+ req/mo · <tspan fill="#4ade80">99.9%</tspan></text>
-      <text x="24" y="222"><tspan fill="#4b5563">[09:14:30]</tspan> <tspan fill="#c9d1d9">kafka.consume</tspan>   · erp.sync · acumatica</text>
-      <text x="24" y="240"><tspan fill="#4b5563">[09:14:31]</tspan> <tspan fill="#c9d1d9">elixir.proxy</tspan>    · erp.auth · <tspan fill="#4ade80">ok</tspan> · 8ms</text>
-      <text x="24" y="258"><tspan fill="#4b5563">[09:14:32]</tspan> <tspan fill="#c9d1d9">yolo.detect</tspan>     · iris · <tspan fill="#4ade80">0.97</tspan> conf · 16ms</text>
+      <text x="24" y="60"><tspan fill="#4b5563">[09:14:21]</tspan> <tspan fill="#c9d1d9">yolo.detect</tspan>     &#183; palm &#183; <tspan fill="#4ade80">0.94</tspan> conf &#183; 18ms</text>
+      <text x="24" y="78"><tspan fill="#4b5563">[09:14:22]</tspan> <tspan fill="#c9d1d9">efficientnet</tspan>  &#183; face &#183; <tspan fill="#4ade80">ok</tspan> &#183; CUDA &#183; 42ms</text>
+      <text x="24" y="96"><tspan fill="#4b5563">[09:14:23]</tspan> <tspan fill="#c9d1d9">gemini.narrative</tspan> &#183; batch 12 &#183; <tspan fill="#4ade80">ok</tspan></text>
+      <text x="24" y="114"><tspan fill="#4b5563">[09:14:24]</tspan> <tspan fill="#c9d1d9">tts.synthesize</tspan>  <tspan fill="#4ade80">ok</tspan> &#183; <tspan fill="#fbbf24">50 MB</tspan> &#183; was 800 MB</text>
+      <text x="24" y="132"><tspan fill="#4b5563">[09:14:25]</tspan> <tspan fill="#c9d1d9">stripe.webhook</tspan>  <tspan fill="#4ade80">ok</tspan> &#183; subscription renewed</text>
+      <text x="24" y="150"><tspan fill="#4b5563">[09:14:26]</tspan> <tspan fill="#c9d1d9">gateway.route</tspan>   &#183; 5 img types &#183; 12 svc</text>
+      <text x="24" y="168"><tspan fill="#4b5563">[09:14:27]</tspan> <tspan fill="#c9d1d9">socket.emit</tspan>     &#183; client ack &#183; <tspan fill="#4ade80">14ms</tspan></text>
+      <text x="24" y="186"><tspan fill="#4b5563">[09:14:28]</tspan> <tspan fill="#c9d1d9">pgvector.search</tspan> <tspan fill="#4ade80">ok</tspan> &#183; 128 dims &#183; 6ms</text>
+      <text x="24" y="204"><tspan fill="#4b5563">[09:14:29]</tspan> <tspan fill="#c9d1d9">twilio.whatsapp</tspan> &#183; 1M+ req/mo &#183; <tspan fill="#4ade80">99.9%</tspan></text>
+      <text x="24" y="222"><tspan fill="#4b5563">[09:14:30]</tspan> <tspan fill="#c9d1d9">kafka.consume</tspan>   &#183; erp.sync &#183; acumatica</text>
+      <text x="24" y="240"><tspan fill="#4b5563">[09:14:31]</tspan> <tspan fill="#c9d1d9">elixir.proxy</tspan>    &#183; erp.auth &#183; <tspan fill="#4ade80">ok</tspan> &#183; 8ms</text>
+      <text x="24" y="258"><tspan fill="#4b5563">[09:14:32]</tspan> <tspan fill="#c9d1d9">yolo.detect</tspan>     &#183; iris &#183; <tspan fill="#4ade80">0.97</tspan> conf &#183; 16ms</text>
     </g>
   </g>
 </svg>
