@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="kscius@soulgate  ml.pipeline streaming terminal">
+  <defs>
+    <clipPath id="streamWindow">
+      <rect x="0" y="46" width="800" height="128"/>
+    </clipPath>
+  </defs>
+
+  <rect width="800" height="180" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M 0,10 A 10,10 0 0 1 10,0 L 790,0 A 10,10 0 0 1 800,10 L 800,36 L 0,36 Z" fill="#161b22"/>
+  <line x1="0" y1="36" x2="800" y2="36" stroke="#30363d"/>
+
+  <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="18" r="6" fill="#28c840"/>
+
+  <text x="400" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="1">kscius@soulgate  ml.pipeline.live</text>
+
+  <g transform="translate(700, 22)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1">
+    <circle cx="-12" cy="-4" r="4" fill="#4ade80">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="0" fill="#4ade80">STREAMING</text>
+  </g>
+
+  <g clip-path="url(#streamWindow)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="12" fill="#c9d1d9">
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0; 0,-18; 0,-36; 0,-54; 0,-72; 0,-90"
+        keyTimes="0; 0.167; 0.333; 0.5; 0.667; 0.833"
+        calcMode="discrete"
+        dur="9s" repeatCount="indefinite"/>
+
+      <text x="24" y="60"><tspan fill="#4b5563">[09:14:21]</tspan> <tspan fill="#c9d1d9">yolo.detect</tspan>     · palm · <tspan fill="#4ade80">0.94</tspan> conf · 18ms</text>
+      <text x="24" y="78"><tspan fill="#4b5563">[09:14:22]</tspan> <tspan fill="#c9d1d9">efficientnet</tspan>  · face · <tspan fill="#4ade80">ok</tspan> · CUDA · 42ms</text>
+      <text x="24" y="96"><tspan fill="#4b5563">[09:14:23]</tspan> <tspan fill="#c9d1d9">gemini.narrative</tspan> · batch 12 · <tspan fill="#4ade80">ok</tspan></text>
+      <text x="24" y="114"><tspan fill="#4b5563">[09:14:24]</tspan> <tspan fill="#c9d1d9">tts.synthesize</tspan>  <tspan fill="#4ade80">ok</tspan> · <tspan fill="#fbbf24">50 MB</tspan> · was 800 MB</text>
+      <text x="24" y="132"><tspan fill="#4b5563">[09:14:25]</tspan> <tspan fill="#c9d1d9">stripe.webhook</tspan>  <tspan fill="#4ade80">ok</tspan> · subscription renewed</text>
+      <text x="24" y="150"><tspan fill="#4b5563">[09:14:26]</tspan> <tspan fill="#c9d1d9">gateway.route</tspan>   · 5 img types · 12 svc</text>
+      <text x="24" y="168"><tspan fill="#4b5563">[09:14:27]</tspan> <tspan fill="#c9d1d9">socket.emit</tspan>     · client ack · <tspan fill="#4ade80">14ms</tspan></text>
+      <text x="24" y="186"><tspan fill="#4b5563">[09:14:28]</tspan> <tspan fill="#c9d1d9">pgvector.search</tspan> <tspan fill="#4ade80">ok</tspan> · 128 dims · 6ms</text>
+      <text x="24" y="204"><tspan fill="#4b5563">[09:14:29]</tspan> <tspan fill="#c9d1d9">twilio.whatsapp</tspan> · 1M+ req/mo · <tspan fill="#4ade80">99.9%</tspan></text>
+      <text x="24" y="222"><tspan fill="#4b5563">[09:14:30]</tspan> <tspan fill="#c9d1d9">kafka.consume</tspan>   · erp.sync · acumatica</text>
+      <text x="24" y="240"><tspan fill="#4b5563">[09:14:31]</tspan> <tspan fill="#c9d1d9">elixir.proxy</tspan>    · erp.auth · <tspan fill="#4ade80">ok</tspan> · 8ms</text>
+      <text x="24" y="258"><tspan fill="#4b5563">[09:14:32]</tspan> <tspan fill="#c9d1d9">yolo.detect</tspan>     · iris · <tspan fill="#4ade80">0.97</tspan> conf · 16ms</text>
+    </g>
+  </g>
+</svg>
