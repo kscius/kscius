@@ -2,7 +2,17 @@
 
 ### Senior Full-Stack ML Engineer & Tech Lead
 
-Designing and shipping production AI platforms — distributed microservices, PyTorch and CUDA on AWS GPU, computer vision pipelines, LLM integrations, and event-driven backend systems. Fourteen years building scalable products with Rails, Elixir, FastAPI, and React — and the weird stuff in between.
+Senior Full-Stack ML Engineer and Tech Lead with **14+ years** of experience architecting and building scalable web applications, microservices, AI-powered platforms, and robust backend systems across diverse technology stacks and programming languages.
+
+Proven versatility in full-stack development and machine learning, having successfully delivered projects using multiple languages (Python, Ruby, JavaScript, TypeScript, C#, PHP, Elixir, Java) and frameworks (Ruby on Rails, .NET, Node.js, FastAPI, PyTorch, React.js, Vue.js) across various industries and use cases.
+
+Currently building production AI systems with computer vision pipelines, LLM integration, and microservices architecture.
+
+Continuously adapts to and adopts emerging technologies, with a track record of quickly mastering new languages and frameworks to deliver innovative solutions.
+
+Experienced in leading cross-functional teams, designing distributed systems, and optimizing high-traffic applications handling **1M+ requests monthly**.
+
+Expert in AI-assisted development workflows, machine learning infrastructure, and modern DevOps practices.
 
 <p align="center">
   <img src="./media/term-stream.svg" alt="ML pipeline live streaming terminal" width="800">
