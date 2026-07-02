@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="kscuis@cloud ml.pipeline streaming terminal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="ML pipeline live streaming terminal">
   <defs>
     <clipPath id="streamWindow">
       <rect x="0" y="46" width="800" height="128"/>
@@ -13,7 +13,7 @@
   <circle cx="42" cy="18" r="6" fill="#febc2e"/>
   <circle cx="62" cy="18" r="6" fill="#28c840"/>
 
-  <text x="400" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="1">kscuis@cloud &#8212; ml.pipeline.live</text>
+  <text x="400" y="22" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="1">kscius@cloud &#8212; ml.pipeline.live</text>
 
   <g transform="translate(700, 22)" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="1">
     <circle cx="-12" cy="-4" r="4" fill="#4ade80">

@@ -2,10 +2,12 @@
 
 ### Senior Full-Stack ML Engineer & Tech Lead
 
-Building production AI platforms at **Humansoftware.mx** and **SoulGate**. 12+ microservices with PyTorch and CUDA on AWS GPU. Computer vision pipelines, LLM integrations, and event-driven ERP connectors. Fourteen years shipping scalable systems — Rails, Elixir, FastAPI, React — and the weird stuff in between.
+14 years architecting and shipping scalable systems — web apps, microservices, AI platforms, and backend infrastructure across Python, Ruby, Elixir, TypeScript, C#, and whatever else the problem demands. Rails, FastAPI, PyTorch, React, Vue, .NET, Node.js — different industries, same goal: build things that hold up in production.
+
+Focused lately on production AI: computer vision pipelines, LLM integration, and distributed microservices. I lead cross-functional teams, design systems at scale (**1M+ req/mo**), and pick up new stacks fast. ML infrastructure, AI-assisted workflows, and modern DevOps are how I ship.
 
 <p align="center">
-  <img src="./media/term-stream.svg" alt="kscius@soulgate — ml.pipeline.live streaming terminal" width="800">
+  <img src="./media/term-stream.svg" alt="ML pipeline live streaming terminal" width="800">
 </p>
 
 <p align="center">
